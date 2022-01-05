@@ -1,5 +1,12 @@
-# 👶Kotlin-basic
-코틀린 바로잡기 - 코틀린 잡학사전 (with Kotlin In Action) 
+# Operating System
+> [쉽게 배우는 운영체제] 참고
+
+[🧾운영체제 시리즈 모아보기](https://velog.io/@dddooo9/series/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C)
+
+1. [운영체제 - 정의, 역할, 구조](https://velog.io/@dddooo9/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EB%9E%80-%EC%A0%95%EC%9D%98-%EC%97%AD%ED%95%A0-%EA%B5%AC%EC%A1%B0)
+
+# Kotlin
+> [Kotlin In Action] 참고
 
 [🧾코틀린 시리즈 모아보기](https://velog.io/@dddooo9/series/Kotlin)
 
